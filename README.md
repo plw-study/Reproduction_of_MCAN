@@ -20,7 +20,7 @@ python text_process.py
 上述代码运行完成之后，会在当前目录下的processd_data中生成每个数据集的train.txt和test.txt文件。
 
 # Download pre_trained models
-运行代码需要预训练好的huggingface 的 bert-base-chinese, bert-base-cased 以及 pytorch的vgg19 模型。
+运行代码需要预训练好的 bert-base-chinese, bert-base-multilingual-cased 以及 pytorch的vgg19 模型。
 
 下载之后将模型放入当前目录下的models文件夹中。
 
