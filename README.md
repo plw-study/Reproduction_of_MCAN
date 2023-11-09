@@ -6,8 +6,12 @@ This is the reproduction of MCAN from paper in ACL 2021: "Multimodal Fusion with
 
 
 # Create the env
+首先创建代码所需的环境，推荐使用anaconda创建虚拟环境。代码运行所需要的关键包已在requirements.txt中列出。
 
-首先创建代码所需的环境，具体所需packages见官方代码地址。
+The python version is python-3.8.16. The detailed version of some packages is available in requirements.txt. You can install all the required packages using the following command:
+```
+pip install -r requirements.txt
+```
 
 # Process dataset
 
