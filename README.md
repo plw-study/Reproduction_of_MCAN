@@ -6,13 +6,17 @@ This is the reproduction of MCAN from paper in ACL 2021: "Multimodal Fusion with
 
 
 
-# create the env
+# Create the env
+
 首先创建代码所需的环境，具体所需packages见官方代码地址。
 
-# process dataset
-首先从下面的地址下载所需数据集：
-weibo数据集[下载地址](https://pan.baidu.com/s/1S0OxCWRvXsP2cOWdDt_BRg),提取码：4j7p
-twitter数据集[下载地址](https://pan.baidu.com/s/1GOLqfw4n0XaR33AR7fSqVg)，提取码：fww9
+# Process dataset
+
+从下面的地址下载所需数据集：
+
+- weibo数据集[下载地址](https://pan.baidu.com/s/1S0OxCWRvXsP2cOWdDt_BRg),提取码：4j7p
+
+- twitter数据集[下载地址](https://pan.baidu.com/s/1GOLqfw4n0XaR33AR7fSqVg)，提取码：fww9
 
 然后运行下面的代码处理数据集，得到满足MCAN输入格式的文件：
 ```
