@@ -10,7 +10,7 @@ This is the reproduction of MCAN from paper in ACL 2021: "Multimodal Fusion with
 
 The python version is python-3.8.16. The detailed version of some packages is available in requirements.txt. You can install all the required packages using the following command:
 ```
-pip install -r requirements.txt
+conda install --yes --file requirements.txt
 ```
 
 # Process dataset
